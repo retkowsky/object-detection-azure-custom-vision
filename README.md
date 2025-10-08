@@ -13,8 +13,4 @@ Azure Custom Vision is a cognitive service that enables you to build custom comp
 ## 📄 License
 This project is provided as educational material. Please ensure compliance with Azure's terms of service when using these resources.
 
-## 👨‍💻 Author
-Serge Retkowsky
 
-GitHub: @retkowsky
-Microsoft
