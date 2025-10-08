@@ -10,10 +10,10 @@ This repository contains two Python notebooks that guide you through the complet
 
 Azure Custom Vision is a cognitive service that enables you to build custom computer vision models without requiring deep machine learning expertise. It's perfect for detecting specific objects in images tailored to your business needs.
 
-##📄 License
+## 📄 License
 This project is provided as educational material. Please ensure compliance with Azure's terms of service when using these resources.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Serge Retkowsky
 
 GitHub: @retkowsky
