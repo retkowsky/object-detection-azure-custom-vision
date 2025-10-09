@@ -2,6 +2,8 @@
 
 **Azure AI Custom Vision** is a cloud-based computer vision service from Microsoft that enables developers to build custom object detection models without requiring deep machine learning expertise. It's part of Microsoft's Azure Cognitive Services suite and provides a user-friendly approach to training AI models for specific visual recognition tasks.
 
+<img src="pools.jpg">
+
 ## ✨ Key Features
 - 🎯 **Easy Model Training:** Custom Vision uses a web-based interface where users can upload and label training images. The service handles the underlying machine learning complexities, making it accessible to developers without extensive AI backgrounds.
 - 📍 **Object Detection Capabilities:** The service can identify and locate multiple objects within a single image, providing bounding box coordinates for each detected item. This goes beyond simple image classification by pinpointing exactly where objects appear in the image.
