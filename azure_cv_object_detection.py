@@ -665,7 +665,7 @@ def get_predictions(project_id: str, publish_iteration_name: str, image_path: st
             )
 
     # Saving the image
-    output_image_file = os.path.join(output_dir, f"{os.path.splitext(os.path.basename(image_path))[0]}.jpg")
+    output_image_file = os.path.join(output_dir, f"pred_{os.path.splitext(os.path.basename(image_path))[0]}.jpg")
     cv2.imwrite(output_image_file, img)
     print(f"\n✅ Annotated image saved to {output_image_file}")
 
