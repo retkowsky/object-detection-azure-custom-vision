@@ -1,6 +1,6 @@
 # Azure Custom Vision for object detection
 # Serge Retkowsky - Microsoft - serge.retkowsky@microsoft.com
-# 07/10/2025
+# 09/10/2025
 
 import cv2
 import glob
